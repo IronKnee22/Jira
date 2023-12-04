@@ -4,6 +4,11 @@ Jira je název softwarového nástroje vyvinutého firmou Atlassian. Jedná se o
 
 Jira je často využívána v kombinaci s metodikami řízení projektů, jako je například Scrum nebo Kanban. Pomáhá týmům získat přehled o práci, kterou mají před sebou, a usnadňuje komunikaci a spolupráci mezi členy týmu.
 
+## Univerzální Využití:
+**Běžný Projektový Management**:
+Jira není omezena pouze na projekty v oblasti vývoje software. Může být úspěšně využívána i pro běžný projektový management napříč různými odvětvími a odvětvovými projekty.
+Poskytuje flexibilní možnosti konfigurace, což umožňuje přizpůsobení nástroje potřebám týmu či projektu, bez ohledu na obor či typ práce.
+
 ### 1. **Jira Software:**
 
 - **Správa Úkolů (Issues):**
